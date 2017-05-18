@@ -1,0 +1,35 @@
+markers= 
+{
+ "data" :[
+{
+  "Name": "Test iDirect",
+  "ID"  : "123",
+  "Lat" :  38.951302, 
+  "Lon" :  -77.422707
+},
+
+{
+  "Name": "Test Kukatlapalli",
+  "ID"  : "345",
+  "Lat" :  15.963903,
+  "Lon" :  79.930817
+},
+
+{
+ "Name": "Canada",
+  "url": "https://en.wikipedia.org/wiki/Canada",
+   "Lat": 56.130366,
+   "Lon": -106.346771
+   },
+
+{
+     "Name": "Ireland",
+     "url": "https://en.wikipedia.org/wiki/Ireland",
+     "Lat": 53.412910,
+     "Lon": -8.243890
+   }
+],
+   "meta": {
+      "count" :31 
+   }
+}
