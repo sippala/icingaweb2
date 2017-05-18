@@ -1,0 +1,243 @@
+{
+   "Name": "Soccer ",
+   "icon": "maps/soc/soccer.png",
+   "ID": 1,
+   "children": [
+       {
+            "Name": "Club",
+                    "ID": 1,
+                    "GameId": 1,
+                     "children": [
+                        {
+                            "Name": "Europe",
+                            "ID": 3,
+                            "GameID": 1,
+                            "StatusID": 1,
+                            "children": [
+                                {
+                                    "Name": "EPL",
+                                    "icon":"maps/soc/epl.png",
+                                    "ID": 3,
+                                    "ContinentID": 3,
+                                    "children": [
+                                        {
+                                            "Name": "Arsenal",
+                                            "icon": "maps/soc/arsenal.png",
+                                            "ID": 32,
+                                            "CountryID": 3
+                                        },
+                                        {
+                                            "Name": "Chelsea",
+                                            "icon":"maps/soc/chelsea.ico",
+                                            "ID": 44,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Liverpool",
+                                            "icon":"maps/soc/liverpool.ico",
+                                            "ID": 71,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Manchester City",
+                                            "icon": "maps/soc/mancity.ico",
+                                            "ID": 72,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Manchester United",
+                                            "icon":"maps/soc/manunited.ico",
+                                            "ID": 135,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Tottenham Hotspurs",
+                                            "icon": "maps/soc/tottenham.ico",
+                                            "ID": 9,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Everton",
+                                            "icon":"maps/soc/everton.ico",
+                                            "ID": 140,
+                                            "NetworkID": 3
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "La Liga",
+				    "icon": "maps/soc/laliga.ico",
+                                    "ID": 11,
+                                    "CountryID": 3,
+                                    "children": [
+                                                 {
+                                            "Name": "Ateletico Madrid",
+                                            "icon": "maps/soc/atletico.ico",
+                                            "ID": 32,
+                                            "CountryID": 3
+                                        },
+                                        {
+                                            "Name": "Barcelona",
+					    "icon": "maps/soc/barcelona.ico",
+                                            "ID": 44,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Real Madrid",
+                                            "icon": "maps/soc/realmadrid.ico",
+                                            "ID": 71,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Valencia",
+					    "icon": "maps/soc/valencia.ico",
+                                            "ID": 72,
+                                            "NetworkID": 3
+                                        }
+                                      ]
+                                },
+                                {
+                                    "Name": "Bundesliga",
+				    "icon": "maps/soc/bundesliga.ico",
+                                    "ID": 11,
+                                    "CountryID": 3,
+                                    "children": [
+                                                 {
+                                            "Name": "Borussia Dortmund",
+                                            "icon": "maps/soc/dortmund.ico",
+                                            "ID": 32,
+                                            "CountryID": 3
+                                        },
+                                        {
+                                            "Name": "Bayern Munich",
+					    "icon": "maps/soc/bayern.ico",
+                                            "ID": 44,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Schalke",
+					    "icon": "maps/soc/schalke.ico",
+                                            "ID": 71,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Wolfsburg",
+					    "icon": "maps/soc/wolfsburg.ico",
+                                            "ID": 72,
+                                            "NetworkID": 3
+                                        }
+                                      ]
+                                },
+                                {
+                                    "Name": "Serie A",
+				    "icon": "maps/soc/serieA.ico",
+                                    "ID": 11,
+                                    "CountryID": 3,
+                                    "children": [
+                                                 {
+                                            "Name": "Juventus",
+                                            "icon": "maps/soc/juventus.ico",
+                                            "ID": 32,
+                                            "CountryID": 3
+                                        },
+                                        {
+                                            "Name": "Napoli",
+					    "icon": "maps/soc/napoli.ico",
+                                            "ID": 44,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "AC Milan",
+					    "icon": "maps/soc/acmilan.ico",
+                                            "ID": 71,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Inter Milan",
+					    "icon": "maps/soc/intermilan.ico",
+                                            "ID": 72,
+                                            "NetworkID": 3
+                                        }
+                                      ]
+                                },
+                                {
+                                    "Name": "Ligue 1",
+				    "icon": "maps/soc/ligue1.png",
+                                    "ID": 11,
+                                    "CountryID": 3,
+                                    "children": [
+                                        {
+                                            "Name": "AS Monaco",
+                                            "icon": "maps/soc/monaco.ico",
+                                            "ID": 32,
+                                            "CountryID": 3
+                                        },
+                                        {
+                                            "Name": "PSG",
+					    "icon": "maps/soc/psg.ico",
+                                            "ID": 44,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Nice",
+					    "icon": "maps/soc/nice.ico",
+                                            "ID": 71,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Montepellier",
+					    "icon": "maps/soc/montepellier.ico",
+                                            "ID": 72,
+                                            "NetworkID": 3
+                                        }
+                                    ]
+                                }
+						    ]
+						},
+                        {
+                            "Name": "Americas",
+                            "ID": 5,
+                            "GameID": 1,
+                            "StatusID": 1,
+                            "children": [
+                                {
+                                    "Name": "MLS",
+                                    "ID": 11,
+                                    "CountryID": 3,
+                                    "children": [
+                                        {
+                                            "Name": "NYCFC",
+                                            "ID": 32,
+                                            "CountryID": 3
+                                        },
+                                        {
+                                            "Name": "Seattle",
+                                            "ID": 44,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "Toronto",
+                                            "ID": 71,
+                                            "NetworkID": 3
+                                        },
+                                        {
+                                            "Name": "DC United",
+                                            "ID": 72,
+                                            "NetworkID": 3
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+        },
+        {
+            "Name": "Country",
+            "ID": 2,
+            "TeleportId": 1,
+            "children": []
+        }
+    ]
+ }
+
+
